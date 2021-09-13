@@ -1,1 +1,4 @@
 # Online-Meet
+
+# requierments:
+- vidstream
